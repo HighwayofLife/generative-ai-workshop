@@ -1,0 +1,70 @@
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  padding: 0;
+  background-color: #f4f4f4;
+}
+
+header {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+}
+
+header h1 {
+  margin: 0;
+  padding: 10px 0;
+}
+
+header img {
+  width: 70%;
+  max-width: 600px;
+}
+
+section {
+  padding: 20px;
+  margin-bottom: 10px;
+  background-color: white;
+  border-radius: 5px;
+  box-shadow: 1px 1px 5px rgba(0, 0, 0, 0.1);
+}
+
+section img {
+  width: 100%;
+  max-width: 500px;
+  display: block;
+  margin: 10px auto;
+}
+
+#menu {
+  background-image: url('images/paper_bg.png');
+  background-size: cover;
+  background-position: center;
+  padding: 20px 60px 40px 80px; 
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+h2, h3 {
+  color: #333;
+}
+
+ul {
+  padding: 0;
+}
+
+li {
+  list-style-type: none;
+  margin: 5px 0;
+}
+
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 10px;
+  position: fixed;
+  width: 100%;
+  bottom: 0;
+}
