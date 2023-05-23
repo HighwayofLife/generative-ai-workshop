@@ -1,4 +1,8 @@
-# Workshop Title: "Cooking Up AI: Generative Techniques for Crafting a Delectable Digital Experience"
+# Cooking Up AI: Generative Techniques for Crafting a Delectable Digital Experience
+
+## Load This Github Repo: https://github.com/HighwayofLife/generative-ai-workshop
+
+![./qr_code.png](./qr_code.png)
 
 ## Workshop Summary/Description:
 
@@ -36,14 +40,22 @@ In this interactive workshop, participants will explore the practical applicatio
   - This is one of the reasons we're going to be working in teams
   - Also working in teams utilizes talents, such as technical and creative.
 - Understand the practical applications of generative AI in digital experiences
+- You are the explorer of your imagination, and your task is to define the creative idea, and have a picture in your mind of what your intended outcome will be. The purpose of the AI is to help you realize your vision by filling in the blanks and performing the "gruntwork".
+- When you get stuck, consider ways to ask the generative language model AI the questions that will help get you un-stuck. It is the ultimate tutor!
+
+### Task:
+
 - Use Generative AI to formulate a restaurant experience:
 
   - What is the theme of the restaurant?
   - What is the name of the restaurant?
+    - Use AI to come up with the images for the restaurant:
+      - Environment / Dining room / Kitchen / Staff, etc.
   - What is the menu?
-    - Establish limits
-  - What are the ingredients for each menu item?
+    - Establish limits (e.g. 5 appetizers, 5 entrees, 5 desserts)
+  - What is a detailed description for each menu item?
     - Create images for a selection of menu items.
+  - What other unique ideas can you come up with and generate?
 
 - Create a dynamic micro-service for a fictional restaurant website
 - Generate lifelike food images using AI techniques
