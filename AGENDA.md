@@ -26,7 +26,7 @@
 - Teams start coding the website using the chosen online editor or VS Code (10 minutes)
 - Teams incorporate the generated content into the website (10 minutes)
 
-**6. Docker Implementation (10 minutes):**
+**6. Stretch Goal: Docker Implementation (10 minutes):**
 
 - Teams create a Dockerfile for their website (5 minutes)
 - Teams build and run the Docker image, ensuring the website can be interacted with from a local browser (5 minutes)

@@ -13,7 +13,7 @@ In this interactive workshop, participants will explore the practical applicatio
 - **Tools to Download / Use**:
   - JSFiddle (Online JavaScript, HTML, CSS editor/preview): https://jsfiddle.net/
   - VS Code (Code IDE Editor): https://code.visualstudio.com/
-  - Docker for Desktop: https://www.docker.com/products/docker-desktop/
+  - Stretch goal tool: Docker for Desktop: https://www.docker.com/products/docker-desktop/
 - **Language**:
   - Bard: https://bard.google.com/
   - Bing Chat: https://www.bing.com/chat (Requires the Edge Browser)
@@ -72,10 +72,14 @@ In this interactive workshop, participants will explore the practical applicatio
 - Website should have at least one page:
   - Should contain an image of the restaurant, and the menu
   - Can have multiple pages if the team desires
+
+## Stretch Goal:
+
+- Bundle up the Restaurant website in a Docker container
 - The Docker image should contain the website code
 - Local browser should be able to interact with the Docker image (site)
 
-## Docker
+### Docker
 
 - Install Docker Desktop
 - Create a Dockerfile
