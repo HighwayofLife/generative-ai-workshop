@@ -1,6 +1,6 @@
 # Cooking Up AI: Generative Techniques for Crafting a Delectable Digital Experience
 
-## Load This Github Repo: https://github.com/HighwayofLife/generative-ai-workshop
+## Load This Github Repo: bit.ly/cooking-up-generative-ai-workshop
 
 ![./qr_code.png](./qr_code.png)
 
@@ -10,6 +10,10 @@ In this interactive workshop, participants will explore the practical applicatio
 
 ## What tools can we use?
 
+- **Tools to Download / Use**:
+  - JSFiddle (Online JavaScript, HTML, CSS editor/preview): https://jsfiddle.net/
+  - VS Code (Code IDE Editor): https://code.visualstudio.com/
+  - Docker for Desktop: https://www.docker.com/products/docker-desktop/
 - **Language**:
   - Bard: https://bard.google.com/
   - Bing Chat: https://www.bing.com/chat (Requires the Edge Browser)
