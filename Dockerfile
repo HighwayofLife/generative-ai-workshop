@@ -5,7 +5,7 @@ FROM nginx:alpine
 RUN rm -rf /usr/share/nginx/html/*
 
 # Copy website files from local directory to the Nginx html directory
-COPY ./workspace /usr/share/nginx/html
+COPY ./docs /usr/share/nginx/html
 
 # Expose port 8080
 EXPOSE 8080

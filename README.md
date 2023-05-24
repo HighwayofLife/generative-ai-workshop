@@ -82,6 +82,15 @@ In this interactive workshop, participants will explore the practical applicatio
 - Build the Docker image
 - Run the Docker image
 
+**Suggestions**
+
+```
+docker build . -t restaurant
+docker run -p 8080:8080 -d restaurant
+```
+
+Use generative AI to come up with commands or explain these commands to you and what they do.
+
 ## Expectations
 
 The time it would take a small team to accomplish these goals without the use of AI would depend on a number of factors such as the team's skill level, the complexity of the website, and the amount of content to be created.
