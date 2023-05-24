@@ -81,3 +81,72 @@ In this interactive workshop, participants will explore the practical applicatio
 - Create a Dockerfile
 - Build the Docker image
 - Run the Docker image
+
+## Expectations
+
+The time it would take a small team to accomplish these goals without the use of AI would depend on a number of factors such as the team's skill level, the complexity of the website, and the amount of content to be created.
+
+Website Development (HTML, CSS, JavaScript): For a basic website with 1-2 pages, a skilled developer could create this in about 2 weeks. However, if the website is more complex or requires custom functionality, it could take several weeks to a couple of months.
+
+Content Creation (Restaurant Theme, Menu, Descriptions): This would depend on the creativity and writing skills of the team. If the team already has a clear idea of the restaurant theme and menu, this could be done in about a week. However, to brainstorm and create this from scratch, it typically takes several weeks.
+
+Image Creation: Creating custom images for the restaurant and menu items could be time-consuming, especially if the team doesn't have a skilled graphic designer. This could take a few weeks.
+
+So, in total, for a small team of 4-5 people with a mix of skills (web development, content creation, graphic design), it could take anywhere from a few weeks to a few months to accomplish these goals without the use of AI. However, with the use of AI, these tasks could be completed much faster, especially the content and image creation tasks.
+
+## Prompt examples
+
+### Text Generation
+
+- "Generate a unique name for a restaurant that serves fusion cuisine."
+- "Create a menu for a vegan restaurant."
+- "Describe the ambiance and decor of a seaside seafood restaurant."
+- "Write a backstory for a restaurant located in a historic building."
+
+### Image Generation
+
+- "Generate an image of a cozy, rustic Italian restaurant."
+- "Create an image of a modern, minimalist sushi bar."
+- "Generate an image of a vibrant, colorful Mexican restaurant."
+- "Create an image of a chic, upscale French restaurant."
+
+### Other misc AI prompt examples
+
+Here are some additional ways ChatGPT can be utilized, along with example prompts:
+
+**1. Generating Restaurant Concepts:**
+ChatGPT can be used to generate unique and creative concepts for restaurants. This could include the restaurant's theme, backstory, or unique selling points.
+
+- "Generate a unique concept for a restaurant that combines Italian and Japanese cuisines."
+- "Create a backstory for a restaurant located in a repurposed lighthouse."
+- "What would be a unique selling point for a restaurant that only serves breakfast foods?"
+
+**2. Creating Menu Descriptions:**
+ChatGPT can be used to write detailed and enticing descriptions of menu items.
+
+- "Write a description for a gourmet burger with truffle fries."
+- "Describe a decadent chocolate dessert suitable for a high-end restaurant."
+- "Create a description for a refreshing summer cocktail."
+
+**3. Crafting Marketing Materials:**
+ChatGPT can be used to write marketing materials for the restaurant, such as ad copy, social media posts, or press releases.
+
+- "Write a social media post announcing the grand opening of a new seafood restaurant."
+- "Create a press release for a restaurant that has just been awarded a Michelin star."
+- "Generate a catchy slogan for a family-friendly pizza restaurant."
+
+**4. Answering Customer Queries:**
+ChatGPT can be used to simulate answering customer queries, which could be useful for training staff or for creating a FAQ section on a website.
+
+- "How would you respond to a customer who wants to know if you have gluten-free options?"
+- "What would you say to a customer who is unhappy with their meal?"
+- "How would you answer a query about the restaurant's opening hours?"
+
+**5. Developing Restaurant Policies:**
+ChatGPT can be used to help develop policies for the restaurant, such as booking policies, dress codes, or rules for large groups.
+
+- "Write a policy for booking large groups at a small restaurant."
+- "Create a dress code policy for an upscale restaurant."
+- "Generate a policy for handling customer complaints."
+
+These are just a few examples of how ChatGPT can be used in the context of this workshop. The possibilities are vast and can be tailored to the specific needs and goals of the participants.
