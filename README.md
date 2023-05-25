@@ -1,9 +1,5 @@
 # Cooking Up AI: Generative Techniques for Crafting a Delectable Digital Experience
 
-## Load This Github Repo: bit.ly/cooking-up-generative-ai-workshop
-
-![./qr_code.png](./qr_code.png)
-
 ## Workshop Summary/Description:
 
 In this interactive workshop, participants will explore the practical applications of generative AI by creating a dynamic micro-service for a fictional restaurant website, complete with a tantalizing menu. Through hands-on demonstrations, attendees will learn to harness the power of AI to generate visually stunning and lifelike food images, which will not only enhance the digital menu but also serve as a valuable resource for chefs in crafting their culinary presentations. By the end of the session, participants will have gained valuable insights into leveraging AI for creative problem-solving and delivering captivating digital experiences.
@@ -23,8 +19,8 @@ In this interactive workshop, participants will explore the practical applicatio
 - **Images**:
   - Bing Chat: https://www.bing.com/chat (Requires the Edge Browser)
   - Dall-E: https://labs.openai.com/
-  - Blue Willow: https://discord.gg/AnAeVzqQ
-  - MidJourney (paid): https://discord.gg/AnAeVzqQ (Same server)
+  - Blue Willow: Discord
+  - MidJourney (paid): Discord
 
 ## Team Experience
 
